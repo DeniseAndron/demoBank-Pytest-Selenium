@@ -1,0 +1,15 @@
+09/08/2020 04:52:22 PM: INFO: ***** Test_001_LoginPage *****
+09/08/2020 04:52:22 PM: INFO: ***** Verifying Home Page Title *****
+09/08/2020 04:52:25 PM: INFO: ***** Home page title is passed *****
+09/08/2020 05:05:58 PM: INFO: ***** Test_001_LoginPage *****
+09/08/2020 05:05:58 PM: INFO: ***** Verifying Home Page Title *****
+09/08/2020 05:06:03 PM: INFO: ***** Home page title is passed *****
+09/08/2020 05:06:06 PM: INFO: ***** Verify the login *****
+09/08/2020 05:06:12 PM: INFO: ***** Verify that the login was successful *****
+09/08/2020 05:06:13 PM: INFO: ***** Login successfully *****
+09/08/2020 05:06:30 PM: INFO: ***** Test_001_LoginPage *****
+09/08/2020 05:06:30 PM: INFO: ***** Verifying Home Page Title *****
+09/08/2020 05:06:35 PM: INFO: ***** Home page title is passed *****
+09/08/2020 05:06:38 PM: INFO: ***** Verify the login *****
+09/08/2020 05:06:45 PM: INFO: ***** Verify that the login was successful *****
+09/08/2020 05:06:46 PM: INFO: ***** Login failed *****
